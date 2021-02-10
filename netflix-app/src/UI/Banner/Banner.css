@@ -53,7 +53,7 @@
 }
 
 /* BANNER FADE BOTTOM */
-.banner--fadeBottom {
+.banner__fadeBottom {
     height: 7.4rem;
     background-image: linear-gradient(
         180deg, 
